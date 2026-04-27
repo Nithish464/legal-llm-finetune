@@ -1,0 +1,11 @@
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+huggingface_hub
+sentencepiece
+evaluate
+rouge_score
+ 
